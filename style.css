@@ -2,23 +2,9 @@ body{
     background-color:rgb(255, 255, 255);
 
     }
-    p{
-        color:red;
-        font-family: ;
-        font-size:20 ;
-        background:black ;
-        }
 
-        #Jack{
-            color:red;
-        font-family: ;
-        font-size:17 ;
-        background:black ;
-        }
+#cria{
+    width: 10%;
+}
 
-        #Jack1{
-            color:red;
-            font-family: ;
-            font-size:17 ;
-            background:black ;
-        }
+
